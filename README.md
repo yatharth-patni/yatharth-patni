@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Yatharth Patni
 
 
-
+👋 Hey! I'm Yatharth Patni
+🎓 B.Tech CSE student @ LPU
+💻 Currently learning C++, Python, DSA and Web Development
 
 <!--
 **yatharth-patni/yatharth-patni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
