@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Yatharth Patni
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Developer+in+Progress;Learning+DSA+and+AI;Building+Projects+Daily;Future+Software+Engineer)](https://git.io/typing-svg)
+
 
 
 <!--
